@@ -1,1 +1,2 @@
-cat ext-linux.txt | xargs -L 1 code --install-extension
+
+cat ext-linux.txt | xargs -I {} code --install-extension {} --force
