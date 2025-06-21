@@ -1,5 +1,5 @@
 # Extensiones de Visual Studio Code
-
+---
 ## Windows
 ### Cargar lista de extensiones
 ```bash
