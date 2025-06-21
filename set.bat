@@ -1,1 +1,2 @@
-Get-Content ext-windows.txt | ForEach-Object { code --install-extension $_ }
+for /f "delims=" %%i in (ext-windows.txt) do code --install-extension %%i --force
+
