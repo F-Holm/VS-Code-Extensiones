@@ -1,0 +1,1 @@
+code --list-extensions > ext-windows.txt
