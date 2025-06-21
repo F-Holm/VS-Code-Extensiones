@@ -1,2 +1,23 @@
-# VS-Code-Extensiones
-Extensiones de Visual Studio Code
+# Extensiones de Visual Studio Code
+
+- Bash Debug
+- Better Comments
+- C/C++ Extension Pack
+- clangd
+- Container Tools
+- Dev Containers
+- Docker
+- Draw.io Integration
+- ENV
+- Git Graph
+- GitLens — Git supercharged
+- JSON Crack
+- Live Share
+- PowerShell
+- Pylance
+- Python Debugger
+- Python Extension Pack
+- Thunder Client
+- vscode-icons
+- vscode-pdf
+- WSL (Windows)
